@@ -1,2 +1,100 @@
-# online-library.github.io
-Read book online 
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+	</title>
+	<link rel="stylesheet" href="css/bootstrap.min">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="fontawesome/css/all.css">
+	<link rel="stylesheet" href="fontawesome/css/all.min.css">
+		<link rel="stylesheet" href="fontawesome/css/brands.css">
+	<link rel="stylesheet" href="fontawesome/css/brands.min.css">
+		<link rel="stylesheet" href="fontawesome/css/fontawesome.css">
+	<link rel="stylesheet" href="fontawesome/css/fontawesome.min.css">
+		<link rel="stylesheet" href="fontawesome/css/regular.css">
+	<link rel="stylesheet" href="fontawesome/css/regular.min.css">
+	<link rel="stylesheet" href="fontawesome/css/solid.css">
+	<link rel="stylesheet" href="fontawesome/css/solid.min.css">
+</head>
+<body>
+	<div class="container">
+		<center><h2>ONLINE LIBRARY</h2></center>
+	<div class="jumbotron text-secondary bg-dark col-sm-12" style="height: 40px;">
+		<span class="fa fa-book px-1 mt-2"></span><span>Library</span>
+		<div class="link" style="float: right;margin-right: 13px;">
+			<a href="home.html" class="text-secondary" style="text-decoration: none;"><span class="fa fa-home"></span>Home</a>&nbsp;
+			<a href="about.html" class="text-secondary" style="text-decoration: none;"><span class="fa fa-address-book"></span>About us</a>&nbsp;
+			<a href="service.html" class="text-secondary" style="text-decoration: none;"><span class="fa fa-clipboard"></span>Services</a>&nbsp;
+			<a href="product.html" class="text-secondary" style="text-decoration: none;"><span class="fa fa-cart-shopping"></span>Product</a>&nbsp;
+			<a href="contact.html" class="text-secondary" style="text-decoration: none;"><span class="fa fa-phone"></span>Contact us</a>
+		</div>
+	</div>
+	<div class="d bg-white col-sm-12 text-secondary" style="width:1000px;">Read book and download online
+	</div></center><br>
+	<div class="row px-5">
+    <div class="col-md-6 bg-white">
+    <img src="b1.jpg" style="width:400px;height: 400px;"><br>
+<B>THE THOUSAND NAMES</B><br>amet consectetur adipisicing elit. Neque, inventore. Voluptate consequatur corrupti dolor saepe, praesentium eius aut magnam molestiae blanditiis minima quas pariatur accusantium, voluptates ut nam optio obcaecati!<br>
+<button class="btn btn-light text-secondary"><span class="fa fa-download"></span>Download</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-book"></span>Read</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-comment"></span>comment</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-thumbs-up"></span>Like</button>
+<hr></div>
+	<div class="col-md-6 bg-white">
+    <img src="b2.jpg" style="width:400px;height: 400px;"><br>
+<B>HOUSE OF NAMES</B> <BR>amet consectetur adipisicing elit. Neque, inventore. Voluptate consequatur corrupti dolor saepe, praesentium eius aut magnam molestiae blanditiis minima quas pariatur accusantium, voluptates ut nam optio obcaecati!<br>
+<button class="btn btn-light text-secondary"><span class="fa fa-download"></span>Download</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-book"></span>Read</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-comment"></span>comment</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-thumbs-up"></span>Like</button></div>
+<hr>
+<div class="row px-5">
+    <div class="col-md-6 bg-white">
+    <img src="b3.jpg" style="width:400px;height: 400px;"><br>
+<B>THE ROMANS</B><br>amet consectetur adipisicing elit. Neque, inventore. Voluptate consequatur corrupti dolor saepe, praesentium eius aut magnam molestiae blanditiis minima quas pariatur accusantium, voluptates ut nam optio obcaecati!<br>
+<button class="btn btn-light text-secondary"><span class="fa fa-download"></span>Download</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-book"></span>Read</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-comment"></span>comment</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-thumbs-up"></span>Like</button>
+<hr></div>
+	<div class="col-md-6 bg-white">
+    <img src="b2.jpg" style="width:400px;height: 400px;"><br>
+<B>HOUSE OF NAMES</B> <BR>amet consectetur adipisicing elit. Neque, inventore. Voluptate consequatur corrupti dolor saepe, praesentium eius aut magnam molestiae blanditiis minima quas pariatur accusantium, voluptates ut nam optio obcaecati!<br>
+<button class="btn btn-light text-secondary"><span class="fa fa-download"></span>Download</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-book"></span>Read</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-comment"></span>comment</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-thumbs-up"></span>Like</button></div>
+<hr>
+<div class="row px-5">
+    <div class="col-md-6 bg-white">
+    <img src="b1.jpg" style="width:400px;height: 400px;"><br>
+<B>THE THOUSAND NAMES</B><br>amet consectetur adipisicing elit. Neque, inventore. Voluptate consequatur corrupti dolor saepe, praesentium eius aut magnam molestiae blanditiis minima quas pariatur accusantium, voluptates ut nam optio obcaecati!<br>
+<button class="btn btn-light text-secondary"><span class="fa fa-download"></span>Download</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-book"></span>Read</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-comment"></span>comment</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-thumbs-up"></span>Like</button>
+<hr></div>
+	<div class="col-md-6 bg-white">
+    <img src="b2.jpg" style="width:400px;height: 400px;"><br>
+<B>HOUSE OF NAMES</B> <BR>amet consectetur adipisicing elit. Neque, inventore. Voluptate consequatur corrupti dolor saepe, praesentium eius aut magnam molestiae blanditiis minima quas pariatur accusantium, voluptates ut nam optio obcaecati!<br>
+<button class="btn btn-light text-secondary"><span class="fa fa-download"></span>Download</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-book"></span>Read</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-comment"></span>comment</button>
+<button class="btn btn-light text-secondary"><span class="fa fa-thumbs-up"></span>Like</button></div>
+<hr>
+<br><br>
+<div class="bg">
+	<span class="fab fa-facebook" style="color:blue;"></span>Online library&nbsp; 
+	<span class="fab fa-youtube" style="color:red;"></span>Online_library Channel<br>  
+	<span class="fab fa-instagram" style="color:red;"></span>Online library  
+	<span class="fab fa-twitter" style="color:skyblue;"></span>Online library 
+	</div>
+	</div>
+	<br>
+<div class="footer bg-light text-center text-secondary col-sm-12">&copy-copyright online library-2022</div>
+	</div>
+</div>
+</body>
+</html>
